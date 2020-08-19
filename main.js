@@ -195,8 +195,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "LANGS", function() { return LANGS; });
 const LANGS = [
     { id: 'ab', name: 'Аԥсуа' },
-    { id: 'ru', name: 'Аурыс' },
-    { id: 'abq', name: 'Абаза' }
+    { id: 'ru', name: 'Аурыс' }
+    // { id: 'abq', name: 'Абаза' }
 ];
 
 
